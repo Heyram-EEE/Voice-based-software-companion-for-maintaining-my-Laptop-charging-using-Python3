@@ -5,3 +5,7 @@ This software sends a voice message every time the charger is connected and remi
 Utilizing this system can enhance the longevity of your laptop's battery.
 
 https://www.linkedin.com/posts/heyram-eee_python-project-software-activity-7064262457304727552-dV6z?utm_source=share&utm_medium=member_desktop
+
+<br>
+<h1>Support me by Buying a Coffee</h1>
+<a href="https://www.buymeacoffee.com/heyrameee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
