@@ -9,8 +9,6 @@ def say(text):
 
 stat=None
 print("LapLiMate - A Laptop Battery Companian")
-print("Powered by He5 Solutions he5.in")
-print("Running...............")
 while(True):
     battery = psutil.sensors_battery()
     cstat= battery.power_plugged
